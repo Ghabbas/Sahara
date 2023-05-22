@@ -1,0 +1,3 @@
+It is not responsive!!
+
+Hover effect is moving left or right (I want it to move to top)
